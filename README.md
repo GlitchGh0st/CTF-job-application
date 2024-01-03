@@ -51,7 +51,7 @@ python [script-name].py
 ![Matrix Rain Effect](https://github.com/GlitchGh0st/CTF-job-application/blob/main/Screenshot%202024-01-03%20155642.png)
 
 
-The Matrix rain effect is a visually striking feature that activates when a user inputs an incorrect answer to the riddle. It simulates the iconic green rain from 'The Matrix' movie series in the terminal window.
+The Matrix rain effect is a visually striking feature that activates when a user inputs an incorrect answer to the riddle or second question. It simulates the iconic green rain from 'The Matrix' movie series in the terminal window.
 
 
 ## Code Obfuscation for Enhanced Security
