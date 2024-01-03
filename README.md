@@ -54,6 +54,23 @@ python [script-name].py
 The Matrix rain effect is a visually striking feature that activates when a user inputs an incorrect answer to the riddle. It simulates the iconic green rain from 'The Matrix' movie series in the terminal window.
 
 
+## Code Obfuscation for Enhanced Security
+
+If you're concerned about the security and reverse engineering of the CTF (Capture The Flag) Python script, it's a good practice to obfuscate the code. Obfuscation makes the code harder to understand and reverse engineer, adding an extra layer of protection.
+
+I recommend using PyObfuscate for this purpose. PyObfuscate is an online tool that can obfuscate your entire Python code easily and effectively.
+
+## Steps to Obfuscate Your Code:
+
+Visit PyObfuscate. ( https://pyobfuscate.com/pyd  )
+
+Copy and paste your entire Python script into the provided text area.
+Click on the obfuscate button to process your code.
+Replace your original script with the obfuscated version in your repository.
+
+Note: While obfuscation increases security against reverse engineering, it does not make the code invulnerable. It is still important to follow best practices for security in your code development.
+
+
 ## Contributions
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
