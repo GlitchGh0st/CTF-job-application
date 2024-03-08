@@ -58,15 +58,7 @@ The Matrix rain effect is a visually striking feature that activates when a user
 
 If you're concerned about the security and reverse engineering of the CTF (Capture The Flag) Python script, it's a good practice to obfuscate the code. Obfuscation makes the code harder to understand and reverse engineer, adding an extra layer of protection.
 
-I recommend using PyObfuscate for this purpose. PyObfuscate is an online tool that can obfuscate your entire Python code easily and effectively.
-
-## Steps to Obfuscate Your Code:
-
-Visit PyObfuscate. ( https://pyobfuscate.com/pyd  )
-
-Copy and paste your entire Python script into the provided text area.
-Click on the obfuscate button to process your code.
-Replace your original script with the obfuscated version in your repository.
+I recommend using a PyObfuscater for this purpose. 
 
 Note: While obfuscation increases security against reverse engineering, it does not make the code invulnerable. It is still important to follow best practices for security in your code development.
 
